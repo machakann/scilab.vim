@@ -265,7 +265,7 @@ syn keyword scilabStrings		isnum justify length part regexp sci2exp strcat strch
 syn keyword scilabStrings		strings stripblanks strncpy strrchr strrev strsplit strspn strstr strsubst strtod strtok tokenpos tokens
 syn keyword scilabSoundFileHandling	analyze auread auwrite beep lin2mu loadwave mapsound mu2lin playsnd savewave sound soundsec wavread wavwrite
 syn keyword scilabTimeAndDate		calendar clock date datenum datevec eomday etime getdate now realtime sleep tic timer toc weekday
-syn keyword scilabOutputFunctions	disp printf sprintf prettyprint print printf_conversion
+syn keyword scilabOutputFunctions	disp mprintf sprintf prettyprint print printf_conversion
 " syn keyword scilabXcos			lincos scicos_simulate scicosim steadycos xcosValidateBlockSet xcosValidateCompareBlock xcos_simulate
 " syn keyword scilabXcos			Annotations_pal TEXT_f
 " syn keyword scilabXcos			Commonlyusedblocks_pal LOGICAL_OP RELATIONALOP
